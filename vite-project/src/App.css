@@ -1,0 +1,47 @@
+
+@layer{
+  @import "tailwindcss";
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+  
+}
+
+
+
+
+.header {
+    display: flex;
+    width: auto;
+    height: 50px;
+    flex-shrink: 0;
+    border: 0.5px solid rgba(110, 93, 93, 0.437); /* Change color and thickness as needed */
+    padding: 5px; /* Optional: Adds space inside the border */
+    /* justify-content: space-between; */
+    align-items: center;
+    gap:10px;
+    justify-content: space-between;
+    
+    
+   
+  }
+  
+.logo-div{width: 40px;
+    margin: 4px 0px 2px 69px;
+    flex-shrink: 0;
+    color: #000;
+  }
+
+  .centerdiv{
+    display: flex;
+    gap: 30px;
+    
+    
+  }
+  
+
+
+  .right-div img {
+    height: 31px;
+    margin-right: 64px;
+  }
+
+.bg { background-color: rgb(240, 241, 255);}
