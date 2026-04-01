@@ -9,7 +9,7 @@ Just kicked off the frontend for my **peer-to-peer platform**, and I'm excited t
 - **Framework:** React ⚛️  
 - **Ideation & Logic:** Claude AI 🤖 (super helpful for breaking down complex logic)
 
-## 📊 Progress
+## 📊 Progressfvd
 - Logged approximately **9 hours**
 - UI foundation is shaping up nicely 🎯
 
